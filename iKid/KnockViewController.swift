@@ -12,7 +12,7 @@ class KnockViewController: UIViewController {
     @IBOutlet weak var JokeLabel: UILabel!
     @IBOutlet weak var NextPageButton: UIButton!
     
-    var knock: [String] = ["Knock, Knock.", "Who's there?", "Theodore", "Theodore who?", "Theodore won't open, so I knowcked instead!"]
+    var knock: [String] = ["Knock, Knock.", "Who's there?", "Theodore", "Theodore who?", "Theodore won't open, so I knocked instead!"]
     var buttonCount = 1
     var isLoadingViewController = false
 
